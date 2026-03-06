@@ -112,11 +112,11 @@ class FASTA2FAA(ConvBase):
             "TTG": "L",
             "TAC": "Y",
             "TAT": "Y",
-            "TAA": "_",
-            "TAG": "_",
+            "TAA": "X",
+            "TAG": "X",
             "TGC": "C",
             "TGT": "C",
-            "TGA": "_",
+            "TGA": "X",
             "TGG": "W",
         }
 
